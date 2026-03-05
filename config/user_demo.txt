@@ -22,6 +22,26 @@ CETV-2
 CETV-3
 CETV-4
 
+📺央视频道,#genre#
+CCTV1综合
+CCTV2财经
+CCTV3综艺
+CCTV4中文国际
+CCTV5体育
+CCTV5+体育赛事
+CCTV6电影
+CCTV7国防军事
+CCTV8电视剧
+CCTV9纪录
+CCTV10科教
+CCTV11戏曲
+CCTV12社会与法
+CCTV13新闻
+CCTV14少儿
+CCTV15音乐
+CCTV17农业农村
+CCTV4欧洲
+CCTV4美洲
 
 💰央视付费频道,#genre#
 文化精品
