@@ -1,13 +1,30 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
-https://raw.githubusercontent.com/gitgordon85/IPTV-Check/993791b49c05bc0a749b3a1502958027f78452fd/config/866-898-9898
-https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E7%A6%8F%E5%BB%BA%E7%A7%BB%E5%8A%A8.m3u
-https://raw.githubusercontent.com/alantang1977/IPTV-CCSH/refs/heads/main/live.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
+https://github.com/q1017673817/iptvz/blob/main/zubo_all.txt
+https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
+https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3u
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
+https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt
+https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt
+https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
+https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/%E7%BB%93%E6%9E%9C.txt
+https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
+https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/ycds.txt
+https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/dsjcs7.txt
+https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://live.zbds.top/tv/iptv4.txt
+https://im5k.fun/vip.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/%E5%92%AA%E5%92%95%E7%9B%B4%E6%92%AD.txt
+https://gitee.com/cyh92/live/raw/main/source/migu.txt
+https://gitee.com/cyh92/live/raw/main/source/webtv.txt
+https://gitee.com/cyh92/StaticPage/raw/master/tv/list.txt
+https://raw.githubusercontent.com/liuchuang0321/myIPTV/da52e29606cd2273023fb05aa5e501fe3d0f99c4/ipv4.m3u
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%93%88%E5%B0%94%E6%BB%A8%E7%A7%BB%E5%8A%A8.txt
+https://raw.githubusercontent.com/liuchuang0321/fuke-wxb1969-iptv/90b0e4dc4865e15b9f603ba16cbfb7c0b316d4a8/%E5%A4%AE%E5%8D%ABipv4.txt
+https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
