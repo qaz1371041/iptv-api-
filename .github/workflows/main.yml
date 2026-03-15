@@ -1,50 +1,44 @@
-name: 'Update schedule'
+name: Update schedule
 
-# ⚠️注意：请不要在 fork 的仓库中添加 `on: schedule` 定时任务（cron）。
-# Forks 可能被大量复制并触发定时执行，当前 GitHub Actions 资源使用已接近上限，
-# 大量 fork 的定时任务可能导致工作流被禁用。若需要定时执行，请使用其它部署方式。
-#
-# ⚠️NOTICE: Do NOT add `on: schedule` cron triggers in forked repositories.
-# Forks may multiply scheduled runs and GitHub Actions resource usage is near limits.
-# Many scheduled workflows from forks can cause workflows to be disabled.
-# If scheduled execution is required, use other deployment methods.
-
+# 启用定时任务（注意：fork 仓库需要手动启用 Actions）
 on:
   schedule:
-    - cron: '0 22 * * *'
-  workflow_dispatch:
+    - cron: '0 22 * * *'   # 每天 UTC 22:00 运行
+  workflow_dispatch:         # 允许手动触发
     branches:
       - master
       - dev
-      - gd
+      # 如果你有其他分支，可以在这里添加
 
 jobs:
   push:
-    runs-on: ${{ matrix.operating-system }}
-    strategy:
-      matrix:
-        operating-system: [ 'ubuntu-latest' ]
+    runs-on: ubuntu-latest
     steps:
-      - name: Set branch name
-        id: vars
-        run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
-      - uses: actions/checkout@v3
+      # 移除原分支判断逻辑，直接指定你要运行的分支
+      # 你可以根据需要修改下面的分支名称
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          ref: ${{ env.BRANCH_NAME }}
-      - name: Run with setup-python 3.13
+          ref: master   # 将 master 改为你希望定时运行的分支（如 main、dev 等）
+
+      - name: Set up Python 3.13
         uses: actions/setup-python@v4
         with:
           python-version: '3.13'
-          update-environment: true
           cache: 'pipenv'
+
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Install pipenv
-        run: pip3 install --user pipenv
-      - name: Install dependecies
+        run: pip install --user pipenv
+
+      - name: Install dependencies
         run: pipenv --python 3.13 && pipenv install --deploy
+
       - name: Update
         run: pipenv run dev
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
