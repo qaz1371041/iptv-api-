@@ -6,13 +6,13 @@ https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo.txt
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 https://raw.githubusercontent.com/jn950/live/main/tv/holive.m3u
 https://github.com/jn950/live/blob/main/tv/pllive.txt
-https://im5k.fun/vip.m3u
+# https://im5k.fun/vip.m3u
 http://rihou.cc:555/gggg.nzk
 https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/gat.txt
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt
 https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt
-https://cloud.7so.top/f/xv80ux/天浪.txt
+# https://cloud.7so.top/f/xv80ux/天浪.txt
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
 
 
