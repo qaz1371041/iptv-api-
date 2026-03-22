@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-13" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV-13.png" group-title="📺央视频道",CCTV-13
-http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774522531&major_anchor_level=common&sign=a97da9d1b4c332580a0e83b77cdb2206&t_id=037-2026031918553112BD480F88E3000CDAC3-gkb2g7
-#EXTINF:-1 tvg-id="2" tvg-name="荆门新闻综合" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
+#EXTINF:-1 tvg-id="1" tvg-name="荆门新闻综合" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="河北卫视" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/河北卫视.png" group-title="📡卫视频道",河北卫视
+#EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="经典电影" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/经典电影.png" group-title="🎬电影频道",经典电影
+#EXTINF:-1 tvg-id="3" tvg-name="经典电影" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/经典电影.png" group-title="🎬电影频道",经典电影
 https://down-hls.qxiu.com/live/453135/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-1" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV-1.png" group-title="🕘️更新时间",2026-03-22 06:38:40
-http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774522531&major_anchor_level=common&sign=a97da9d1b4c332580a0e83b77cdb2206&t_id=037-2026031918553112BD480F88E3000CDAC3-gkb2g7
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-1" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/wanglindl/TVlogo/refs/heads/main/img/CCTV-1.png" group-title="🕘️更新时间",2026-03-23 06:40:07
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
