@@ -24,4 +24,4 @@
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-03-23 06:40:07,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+2026-03-24 06:46:47,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
