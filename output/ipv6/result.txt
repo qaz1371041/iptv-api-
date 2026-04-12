@@ -15,7 +15,6 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?a
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-经典电影,https://down-hls.qxiu.com/live/453135/index.m3u8
 
 🏍咪咕体育,#genre#
 
@@ -26,4 +25,4 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?a
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-04-12 06:50:16,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419927&major_anchor_level=common&sign=f41395f47f27736d88b7f87262d4f2bc&t_id=037-2026041017584642E293BBFE84F500BAB4-4pI58E
+2026-04-13 06:50:14,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419927&major_anchor_level=common&sign=f41395f47f27736d88b7f87262d4f2bc&t_id=037-2026041017584642E293BBFE84F500BAB4-4pI58E
