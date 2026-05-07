@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/gat.txt
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
-
+http://mytveo.hxfkof.ggff.net
 # https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt
 
 [白名单]
