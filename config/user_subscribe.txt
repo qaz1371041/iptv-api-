@@ -4,6 +4,7 @@
 # https://im5k.fun/vip.m3u
 # http://rihou.cc:555/gggg.nzk
 # https://cloud.7so.top/f/xv80ux/天浪.txt
+# https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/main/组播_湖北电信.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo.txt
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
@@ -12,8 +13,8 @@ https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/gat.txt
 https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
-http://mytveo.hxfkof.ggff.net
-# https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt
+
+# http://mytveo.hxfkof.ggff.net
 
 [白名单]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
